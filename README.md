@@ -1,13 +1,12 @@
-# IA_multiclass_classification
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_binary_classification)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_binary_classification)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_binary_classification)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_multiclass_classification)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_multiclass_classification)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_multiclass_classification)
 
 # Redes Neurais artificiais: Identificação de Iris
 
 
 <p aling='center'>
-    <img aling='center' width="600px" aling="center"  src="./imagens/Flores_de_íris.png"/>
+<img src="./imagens/Flores_de_íris.png"/>
 </p>
 
 
