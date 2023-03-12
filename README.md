@@ -5,8 +5,8 @@
 # Redes Neurais artificiais: Identificação de Iris
 
 
-<p aling='center'>
-<img src="./imagens/Flores_de_íris.png"/>
+<p align="center">
+    <img src="./imagens/Flores_de_Íris.png" width="600px">
 </p>
 
 
@@ -26,7 +26,7 @@ Apesar dessas limitações, as redes neurais artificiais continuam a ser uma ár
 
 ## Problema
 
-Esse projeto tem como objetivo realizar uma classificação multiclasse de uma base de flores, temos 3 tipos de resultados possíveis que são: íris Setosa, Iris virginica, Iris versicolor. Temos como base de treinamento um dataframe com 4 aspectos da flor e seus respectivos resultados. Com isso somos capazes de treinar a rede neural.
+Esse projeto tem como objetivo realizar uma classificação multiclasse de uma base de flores, temos 3 tipos de resultados possíveis que são: Íris Setosa, Íris virginica, Íris versicolor. Temos como base de treinamento um dataframe com 4 aspectos da flor e seus respectivos resultados. Com isso somos capazes de treinar a rede neural.
 
 ## Arquivos
 
