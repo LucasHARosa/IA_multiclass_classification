@@ -2,8 +2,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_multiclass_classification)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_multiclass_classification)
 
-# Redes Neurais artificiais: Identificação de Iris
-
+# Redes Neurais artificiais: Classificação multiclasse
+## Problema: Identificação de Íris
 
 <p align="center">
     <img src="./imagens/Flores_de_Íris.png" width="600px">
